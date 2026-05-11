@@ -1,0 +1,8 @@
+﻿  Material.cpp
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 1395 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew32s.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\IPCA\2Ano\2Semestre\P3D\IPCA_P3D_G5\P3D-TP\x64\Release\glew32s.pdb'; linking object as if no debug info
+  P3D-TP.vcxproj -> C:\IPCA\2Ano\2Semestre\P3D\IPCA_P3D_G5\P3D-TP\x64\Release\P3D-TP.exe

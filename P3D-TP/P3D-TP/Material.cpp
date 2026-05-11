@@ -166,6 +166,13 @@ namespace game_engine_p3d {
             LOG("Failed to open MTL file: '" << mtl_filename_full << "'");
             return;
         }
+
+        // Garante o locale para leitura de ficheiros de texto com números decimais
+    // Salva a locale atual do programa
+        auto old = std::locale();
+        // Define a locale para "C" para garantir que o ponto seja usado como separador decimal
+        std::locale::global(std::locale("C"));
+
         // Faz o parse do ficheiro linha a linha
         std::string line;
         while (std::getline(file, line)) {
@@ -218,6 +225,10 @@ namespace game_engine_p3d {
                 texture_.push_back(Texture(normal_map_path));
             }
         }
+
+        // Restaura a locale original do programa
+        std::locale::global(old);
+
         // Fecha o ficheiro MTL após ler todas as propriedades
         file.close();
         LOG("Material properties loaded.");
