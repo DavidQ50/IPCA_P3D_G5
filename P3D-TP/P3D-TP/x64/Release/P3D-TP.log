@@ -1,8 +1,20 @@
-﻿  Material.cpp
-  Previous IPDB was built with incompatible compiler, fall back to full compilation.
-LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  Generating code
-  All 1395 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew32s.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\IPCA\2Ano\2Semestre\P3D\IPCA_P3D_G5\P3D-TP\x64\Release\glew32s.pdb'; linking object as if no debug info
-  P3D-TP.vcxproj -> C:\IPCA\2Ano\2Semestre\P3D\IPCA_P3D_G5\P3D-TP\x64\Release\P3D-TP.exe
+﻿  Camera.cpp
+  Game.cpp
+  Light.cpp
+  main.cpp
+  Material.cpp
+  Mesh.cpp
+  Object.cpp
+  Renderer.cpp
+  Shader.cpp
+  Texture.cpp
+  Transform.cpp
+  WindowSystem.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Gerando código
+  1370 of 1395 functions (98.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew32s.pdb' não foi encontrado 'glew32s.lib(glew.obj)' ou no 'C:\Users\Joao\Documents\GitHub\IPCA_P3D_G5\P3D-TP\x64\Release\glew32s.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
+  P3D-TP.vcxproj -> C:\Users\Joao\Documents\GitHub\IPCA_P3D_G5\P3D-TP\x64\Release\P3D-TP.exe

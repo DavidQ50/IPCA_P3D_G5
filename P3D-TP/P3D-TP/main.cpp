@@ -142,6 +142,7 @@ int main() {
 	Renderer* renderer13 = new Renderer(shader, "Ball13.obj");
 	Renderer* renderer14 = new Renderer(shader, "Ball14.obj");
 	Renderer* renderer15 = new Renderer(shader, "Ball15.obj");
+	Renderer* renderer16 = new Renderer(shader, "Table.obj");
 
 
 	// --------------------------------------------------
@@ -173,6 +174,8 @@ int main() {
 	gep3d::Object* object13 = new gep3d::Object("Objecto (13)", "", nullptr, renderer13, 26.0f, 0.0f, 0.0f);
 	gep3d::Object* object14 = new gep3d::Object("Objecto (14)", "", nullptr, renderer14, 28.0f, 0.0f, 0.0f);
 	gep3d::Object* object15 = new gep3d::Object("Objecto (15)", "", nullptr, renderer15, 30.0f, 0.0f, 0.0f);
+	gep3d::Object* object16 = new gep3d::Object("Objecto (16)", "", nullptr, renderer16, 16.0f, -5.0f, 0.0f);
+
 
 	// Cria um segundo objeto com nome "Objecto (2)" e layer padrão, sem comportamento, mas com o mesmo renderizador do primeiro objeto, e posiciona-o em (0, -2, 0)
 
@@ -191,7 +194,7 @@ int main() {
 	LOG("Object created with ID: " << object13->id() << " at position: (26, 0, 0).");
 	LOG("Object created with ID: " << object14->id() << " at position: (28, 0, 0).");
 	LOG("Object created with ID: " << object15->id() << " at position: (30, 0, 0).");
-
+	LOG("Object created with ID: " << object16->id() << " at position: (16, -5, 0).");
 
 	// --------------------------------------------------
 	// Adiciona o(s) objeto(s) ao jogo
@@ -211,7 +214,7 @@ int main() {
 	game.AddObject(object13);
 	game.AddObject(object14);
 	game.AddObject(object15);
-
+	game.AddObject(object16);
 
 
 	// --------------------------------------------------
@@ -254,6 +257,7 @@ int main() {
 	delete object13;
 	delete object14;
 	delete object15;
+	delete object16;
 
 	LOG("Exit!");
 
