@@ -52,9 +52,11 @@ int main() {
 	// Define a cor de fundo da câmara
 	camera.set_background_color(glm::vec4(0.1f, 0.1f, 0.1f, 1.0f));
 	// Define a posição da câmara e o ponto de vista
-	camera.LookAt(glm::vec3(16.0f, 10.0f, 40.0f), glm::vec3(16.0f, 0.0f, 0.0f), glm::vec3(0.0f, 1.0f, 0.0f));
+	camera.LookAt(glm::vec3(16.0f, 18.0f, 60.0f), 
+				  glm::vec3(16.0f, 0.0f, 0.0f), 
+				  glm::vec3(0.0f, 1.0f, 0.0f));
 	// Define a projeção perspetiva da câmara
-	camera.Prespective(45.0f, static_cast<float>(game.width()) / game.height(), 0.1f, 100.0f);
+	camera.Prespective(60.0f, static_cast<float>(game.width()) / game.height(), 0.1f, 100.0f);
 	//camera.Orthographic(-10.0f, 10.0f, -10.0f, 10.0f, 0.1f, 100.0f); // Define a projeção ortográfica
 	// Define a viewport da câmara
 	camera.Viewport(game.width(), game.height(), 0, 0);

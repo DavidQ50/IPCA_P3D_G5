@@ -1,18 +1,2 @@
-﻿  Camera.cpp
-  Game.cpp
-  Light.cpp
-  main.cpp
-  Material.cpp
-  Mesh.cpp
-  Object.cpp
-  Renderer.cpp
-  Shader.cpp
-  Texture.cpp
-  Transform.cpp
-  WindowSystem.cpp
-  Gerando Código...
-  LINK : C:\Users\Joao\Documents\GitHub\IPCA_P3D_G5\P3D-TP\x64\Debug\P3D-TP.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
-glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew32s.pdb' não foi encontrado 'glew32s.lib(glew.obj)' ou no 'C:\Users\Joao\Documents\GitHub\IPCA_P3D_G5\P3D-TP\x64\Debug\glew32s.pdb'; vinculando objeto quando quando sem nenhuma informação de depuração
-LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
-  P3D-TP.vcxproj -> C:\Users\Joao\Documents\GitHub\IPCA_P3D_G5\P3D-TP\x64\Debug\P3D-TP.exe
+﻿  main.cpp
+  P3D-TP.vcxproj -> C:\IPCA\2Ano\2Semestre\P3D\IPCA_P3D_G5\P3D-TP\x64\Debug\P3D-TP.exe
