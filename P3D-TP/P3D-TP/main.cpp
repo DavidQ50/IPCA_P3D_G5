@@ -160,23 +160,23 @@ int main() {
 	// Cria um objeto com nome "Objecto (1)" e layer padrão ("" = "Default")
 	// Atribui um comportamento 'oscilator' ao objeto, que será executado no ciclo de atualização do jogo
 	// Atribui um renderizador ao objeto, que será usado para renderizar o objeto no jogo
-	// Define a posição do objeto como (0, -4, 0), no sistema de coordenadas local, com orientação e escala padrão
-	gep3d::Object* object1 = new gep3d::Object("Objecto (1)", "", nullptr, renderer1, 2.0f, 0.0f, 0.0f);
-	gep3d::Object* object2 = new gep3d::Object("Objecto (2)", "", nullptr, renderer2, 4.0f, 0.0f, 0.0f);
-	gep3d::Object* object3 = new gep3d::Object("Objecto (3)", "", nullptr, renderer3, 6.0f, 0.0f, 0.0f);
-	gep3d::Object* object4 = new gep3d::Object("Objecto (4)", "", nullptr, renderer4, 8.0f, 0.0f, 0.0f);
-	gep3d::Object* object5 = new gep3d::Object("Objecto (5)", "", nullptr, renderer5, 10.0f, 0.0f, 0.0f);
-	gep3d::Object* object6 = new gep3d::Object("Objecto (6)", "", nullptr, renderer6, 12.0f, 0.0f, 0.0f);
-	gep3d::Object* object7 = new gep3d::Object("Objecto (7)", "", nullptr, renderer7, 14.0f, 0.0f, 0.0f);
-	gep3d::Object* object8 = new gep3d::Object("Objecto (8)", "", nullptr, renderer8, 16.0f, 0.0f, 0.0f);
-	gep3d::Object* object9 = new gep3d::Object("Objecto (9)", "", nullptr, renderer9, 18.0f, 0.0f, 0.0f);
-	gep3d::Object* object10 = new gep3d::Object("Objecto (10)", "", nullptr, renderer10, 20.0f, 0.0f, 0.0f);
-	gep3d::Object* object11 = new gep3d::Object("Objecto (11)", "", nullptr, renderer11, 22.0f, 0.0f, 0.0f);
-	gep3d::Object* object12 = new gep3d::Object("Objecto (12)", "", nullptr, renderer12, 24.0f, 0.0f, 0.0f);
-	gep3d::Object* object13 = new gep3d::Object("Objecto (13)", "", nullptr, renderer13, 26.0f, 0.0f, 0.0f);
-	gep3d::Object* object14 = new gep3d::Object("Objecto (14)", "", nullptr, renderer14, 28.0f, 0.0f, 0.0f);
-	gep3d::Object* object15 = new gep3d::Object("Objecto (15)", "", nullptr, renderer15, 30.0f, 0.0f, 0.0f);
-	gep3d::Object* object16 = new gep3d::Object("Objecto (16)", "", nullptr, renderer16, 16.0f, -5.0f, 0.0f);
+	// Define a posição do objeto como (0, -4, 0), no sistema de coordenadas local, com orientação e escala padrão 30x35
+	gep3d::Object* object1 = new gep3d::Object("Objecto (1)", "", nullptr, renderer1, 20.0f, 0.0f, 27.0f);
+	gep3d::Object* object2 = new gep3d::Object("Objecto (2)", "", nullptr, renderer2, 8.0f, 0.0f, 30.0f);
+	gep3d::Object* object3 = new gep3d::Object("Objecto (3)", "", nullptr, renderer3, 11.0f, 0.0f, 4.0f);
+	gep3d::Object* object4 = new gep3d::Object("Objecto (4)", "", nullptr, renderer4, 30.0f, 0.0f, 25.0f);
+	gep3d::Object* object5 = new gep3d::Object("Objecto (5)", "", nullptr, renderer5, 13.0f, 0.0f, 21.0f);
+	gep3d::Object* object6 = new gep3d::Object("Objecto (6)", "", nullptr, renderer6, 12.0f, 0.0f, 12.0f);
+	gep3d::Object* object7 = new gep3d::Object("Objecto (7)", "", nullptr, renderer7, 25.0f, 0.0f, 5.0f);
+	gep3d::Object* object8 = new gep3d::Object("Objecto (8)", "", nullptr, renderer8, 16.0f, 0.0f, 19.0f);
+	gep3d::Object* object9 = new gep3d::Object("Objecto (9)", "", nullptr, renderer9, 18.0f, 0.0f, 13.0f);
+	gep3d::Object* object10 = new gep3d::Object("Objecto (10)", "", nullptr, renderer10, 10.0f, 0.0f, 15.0f);
+	gep3d::Object* object11 = new gep3d::Object("Objecto (11)", "", nullptr, renderer11, 26.0f, 0.0f, 10.0f);
+	gep3d::Object* object12 = new gep3d::Object("Objecto (12)", "", nullptr, renderer12, 4.0f, 0.0f, 32.0f);
+	gep3d::Object* object13 = new gep3d::Object("Objecto (13)", "", nullptr, renderer13, 6.0f, 0.0f, 15.0f);
+	gep3d::Object* object14 = new gep3d::Object("Objecto (14)", "", nullptr, renderer14, 22.0f, 0.0f, 14.0f);
+	gep3d::Object* object15 = new gep3d::Object("Objecto (15)", "", nullptr, renderer15, 26.0f, 0.0f, 32.0f);
+	gep3d::Object* object16 = new gep3d::Object("Objecto (16)", "", nullptr, renderer16, 16.0f, -1.0f, 4.0f);
 
 
 	// Cria um segundo objeto com nome "Objecto (2)" e layer padrão, sem comportamento, mas com o mesmo renderizador do primeiro objeto, e posiciona-o em (0, -2, 0)
@@ -189,13 +189,13 @@ int main() {
 	LOG("Object created with ID: " << object6->id() << " at position: (12, 0, 0).");
 	LOG("Object created with ID: " << object7->id() << " at position: (14, 0, 0).");
 	LOG("Object created with ID: " << object8->id() << " at position: (16, 0, 0).");
-	LOG("Object created with ID: " << object9->id() << " at position: (18, 0, 0).");
-	LOG("Object created with ID: " << object10->id() << " at position: (20, 0, 0).");
-	LOG("Object created with ID: " << object11->id() << " at position: (22, 0, 0).");
-	LOG("Object created with ID: " << object12->id() << " at position: (24, 0, 0).");
-	LOG("Object created with ID: " << object13->id() << " at position: (26, 0, 0).");
-	LOG("Object created with ID: " << object14->id() << " at position: (28, 0, 0).");
-	LOG("Object created with ID: " << object15->id() << " at position: (30, 0, 0).");
+	LOG("Object created with ID: " << object9->id() << " at position: (18, 0, 13).");
+	LOG("Object created with ID: " << object10->id() << " at position: (10, 0, 15).");
+	LOG("Object created with ID: " << object11->id() << " at position: (26, 0, 10).");
+	LOG("Object created with ID: " << object12->id() << " at position: (4, 0, 32).");
+	LOG("Object created with ID: " << object13->id() << " at position: (6, 0, 15).");
+	LOG("Object created with ID: " << object14->id() << " at position: (22, 0, 14).");
+	LOG("Object created with ID: " << object15->id() << " at position: (3, 0, 29).");
 	LOG("Object created with ID: " << object16->id() << " at position: (16, -5, 0).");
 
 	// --------------------------------------------------

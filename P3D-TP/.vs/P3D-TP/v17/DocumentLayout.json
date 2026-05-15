@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Oscilator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Oscilator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Material.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -39,28 +63,12 @@
       "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|solutionrelative:P3D-TP\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE4DBC1D-9494-47A4-8BE9-7898094E4670}|P3D-TP\\P3D-TP.vcxproj|C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\WindowSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -87,6 +95,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Oscilator.h",
+              "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Oscilator.h",
+              "RelativeDocumentMoniker": "P3D-TP\\Oscilator.h",
+              "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Oscilator.h",
+              "RelativeToolTip": "P3D-TP\\Oscilator.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T10:32:44.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Common.h",
+              "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Common.h",
+              "RelativeDocumentMoniker": "P3D-TP\\Common.h",
+              "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Common.h",
+              "RelativeToolTip": "P3D-TP\\Common.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-15T10:19:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Transform.h",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Transform.h",
               "RelativeDocumentMoniker": "P3D-TP\\Transform.h",
@@ -94,12 +128,11 @@
               "RelativeToolTip": "P3D-TP\\Transform.h",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-14T23:18:09.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T23:18:09.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Camera.h",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Camera.h",
               "RelativeDocumentMoniker": "P3D-TP\\Camera.h",
@@ -107,12 +140,11 @@
               "RelativeToolTip": "P3D-TP\\Camera.h",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-14T23:17:38.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T23:17:38.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Object.h",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Object.h",
               "RelativeDocumentMoniker": "P3D-TP\\Object.h",
@@ -124,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Light.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Light.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Light.cpp",
@@ -136,19 +168,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Material.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Material.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Material.cpp",
               "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Material.cpp",
               "RelativeToolTip": "P3D-TP\\Material.cpp",
-              "ViewState": "AgIAAMMAAAAAAAAAAAAAAOoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAOoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-10T14:53:06.034Z"
+              "WhenOpened": "2026-05-10T14:53:06.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Mesh.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Mesh.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Mesh.cpp",
@@ -160,19 +193,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "Renderer.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Renderer.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Renderer.cpp",
               "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Renderer.cpp",
               "RelativeToolTip": "P3D-TP\\Renderer.cpp",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAYwG0AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-10T14:52:52.398Z"
+              "WhenOpened": "2026-05-10T14:52:52.398Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Shader.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Shader.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Shader.cpp",
@@ -180,11 +214,12 @@
               "RelativeToolTip": "P3D-TP\\Shader.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-10T14:52:49.868Z"
+              "WhenOpened": "2026-05-10T14:52:49.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Transform.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Transform.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Transform.cpp",
@@ -192,49 +227,50 @@
               "RelativeToolTip": "P3D-TP\\Transform.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-10T14:52:40.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-10T14:52:40.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "Texture.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Texture.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Texture.cpp",
               "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Texture.cpp",
               "RelativeToolTip": "P3D-TP\\Texture.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-07T09:57:49.915Z"
+              "WhenOpened": "2026-05-07T09:57:49.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Object.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Object.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Object.cpp",
               "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Object.cpp",
               "RelativeToolTip": "P3D-TP\\Object.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-07T09:57:32.522Z"
+              "WhenOpened": "2026-05-07T09:57:32.522Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\main.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\main.cpp",
               "ToolTip": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\main.cpp",
               "RelativeToolTip": "P3D-TP\\main.cpp",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAEIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAALIAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-05-07T09:41:54.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Mesh.h",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Mesh.h",
               "RelativeDocumentMoniker": "P3D-TP\\Mesh.h",
@@ -246,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Game.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Game.cpp",
@@ -254,12 +290,11 @@
               "RelativeToolTip": "P3D-TP\\Game.cpp",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-07T09:57:11.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T09:57:11.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Camera.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\Camera.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\Camera.cpp",
@@ -267,12 +302,11 @@
               "RelativeToolTip": "P3D-TP\\Camera.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-07T09:57:02.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T09:57:02.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "WindowSystem.cpp",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\WindowSystem.cpp",
               "RelativeDocumentMoniker": "P3D-TP\\WindowSystem.cpp",
@@ -284,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "WindowSystem.h",
               "DocumentMoniker": "C:\\IPCA\\2Ano\\2Semestre\\P3D\\IPCA_P3D_G5\\P3D-TP\\P3D-TP\\WindowSystem.h",
               "RelativeDocumentMoniker": "P3D-TP\\WindowSystem.h",
